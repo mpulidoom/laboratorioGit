@@ -1,0 +1,4 @@
+Este es nuestro laboratorio de Git.
+Estamos aprendiendo a trabajar en equipo.
+Este archivo contiene varias lineas de texto.
+Git permite compartir los cambios realizados.
